@@ -13,7 +13,7 @@
 	<key>HTMLAnchorColor</key>
 	<string>rgba(0.541037,0.704797,0.996306,1.000000)</string>
 	<key>HTMLAttributeNameColor</key>
-	<string>rgba(0.6,0.0,0.4,1.0)</string>
+	<string>rgba(0.309019,0.390559,0.623216,1.000000)</string>
 	<key>HTMLAttributeValueColor</key>
 	<string>rgba(0.540280,0.592908,0.600000,1.000000)</string>
 	<key>HTMLImageColor</key>
@@ -21,7 +21,7 @@
 	<key>HTMLProcessingDirectiveColor</key>
 	<string>rgba(0.227817,0.459179,0.688636,1.000000)</string>
 	<key>HTMLTagColor</key>
-	<string>rgba(0.0,0.0,0.8,1.0)</string>
+	<string>rgba(0.531434,0.719875,0.830281,1.000000)</string>
 	<key>HighlightInsertionPoint</key>
 	<true/>
 	<key>InsertionPointLineHighlightColor</key>
@@ -36,13 +36,17 @@
 	<string>rgba(0.2,0.4,0.6,1.0)</string>
 	<key>PredefinedNamesColor</key>
 	<string>rgba(0.070467,0.524426,0.749985,1.000000)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.389297,0.441444,0.512037,1.000000)</string>
 	<key>PythonDecoratorColor</key>
 	<string>rgba(0.194072,0.391164,0.586634,1.000000)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.815686275,0.815686275,0.815686275,1.0)</string>
 	<key>SpellingColor</key>
 	<string>rgba(1.0, 0.498039216, 0.498039216,1.0)</string>
 	<key>StringColor</key>
 	<string>rgba(0.643193,0.740310,0.423045,1.000000)</string>
 	<key>UseCustomHighlightColor</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
