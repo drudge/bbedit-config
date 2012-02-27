@@ -13,9 +13,9 @@
 	<key>HTMLAnchorColor</key>
 	<string>rgba(0.541037,0.704797,0.996306,1.000000)</string>
 	<key>HTMLAttributeNameColor</key>
-	<string>rgba(0.309019,0.390559,0.623216,1.000000)</string>
+	<string>rgba(0.897978,0.842856,0.546580,1.000000)</string>
 	<key>HTMLAttributeValueColor</key>
-	<string>rgba(0.540280,0.592908,0.600000,1.000000)</string>
+	<string>rgba(0.625467,0.814630,0.397269,1.000000)</string>
 	<key>HTMLImageColor</key>
 	<string>rgba(0.0,0.466666667,0.466666667,1.0)</string>
 	<key>HTMLProcessingDirectiveColor</key>

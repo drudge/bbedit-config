@@ -3,7 +3,7 @@
 <!--
 BBEdit Language Module for CoffeeScript
 
-Put this file in 
+Put this file in
    ~/Library/Application Support/BBEdit/Language Modules
 or equivalent.
 
@@ -94,4 +94,3 @@ Based off of the examples shipped in the BBEdit SDK.
 	</dict>
 </dict>
 </plist>
-
