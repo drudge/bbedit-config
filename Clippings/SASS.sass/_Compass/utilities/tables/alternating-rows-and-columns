@@ -1,0 +1,3 @@
++alternating-rows-and-columns(#placeholderstart#!even_row_color#placeholderend#, #placeholderstart#!odd_row_color#placeholderend#, #placeholderstart#!dark_intersection#placeholderend#, #placeholderstart#!header_color = #FFF#placeholderend#, #placeholderstart#!footer_color = #FFF#placeholderend#)
+#indent#
+#inline#

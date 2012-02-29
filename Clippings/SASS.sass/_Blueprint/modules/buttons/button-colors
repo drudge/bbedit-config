@@ -1,0 +1,3 @@
++button-colors(#placeholderstart#!font_color = !blueprint_button_font_color#placeholderend#, #placeholderstart#!bg_color = !blueprint_button_background_color#placeholderend#, #placeholderstart#!border_color = !blueprint_button_border_color#placeholderend#, #placeholderstart#!border_highlight_color = !border_color + #101010#placeholderend#)
+#indent#
+#inline#

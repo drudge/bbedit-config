@@ -1,0 +1,3 @@
++pretty-bullets(#placeholderstart#!bullet_icon#placeholderend#, #placeholderstart#!width#placeholderend#, #placeholderstart#!height#placeholderend#, #placeholderstart#!line_height = 18px#placeholderend#, #placeholderstart#!padding = 14px#placeholderend#)
+#indent#
+#inline#

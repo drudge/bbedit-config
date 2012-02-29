@@ -1,0 +1,4 @@
+!blueprint_font_family       = #placeholderstart#"Helvetica Neue, Arial, Helvetica, sans-serif"#placeholderend#
+!blueprint_fixed_font_family = #placeholderstart#"'andale mono', 'lucida console', monospace"#placeholderend#
+#indent#
+#inline#

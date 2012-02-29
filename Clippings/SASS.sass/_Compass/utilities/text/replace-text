@@ -1,0 +1,3 @@
++replace-text( #placeholderstart#!img#placeholderend#, #placeholderstart#!x = 50%#placeholderend#, #placeholderstart#!y = 50%#placeholderend# )
+#indent#
+#inline#

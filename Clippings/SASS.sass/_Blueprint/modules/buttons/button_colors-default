@@ -1,0 +1,16 @@
+// Default Button Colors
+!blueprint_button_border_color = #DEDEDE
+!blueprint_button_background_color = #F5F5F5
+!blueprint_button_font_color = #565656
+
+// Default Button Hover Colors
+!blueprint_button_hover_border_color = #C2E1EF
+!blueprint_button_hover_background_color = #DFF4FF
+!blueprint_button_hover_font_color = #336699
+
+// Default Button Active Colors
+!blueprint_button_active_border_color = #6299C5
+!blueprint_button_active_background_color = #6299C5
+!blueprint_button_active_font_color = #FFF
+#indent#
+#inline#

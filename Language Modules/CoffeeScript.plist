@@ -91,6 +91,16 @@ Based off of the examples shipped in the BBEdit SDK.
 			(?&gt;	"	(?s: \\. | [^"] )*?		(?: "   )	)	|
 			(?&gt;	'	(?s: \\. | [^'] )*?		(?: '   )	)
 		)</string>
+		<key>Function Pattern</key>
+		<string><![CDATA[(?x:^(?P<leadspace>^\s*)
+		(?P<function>
+			(?P<function_name>[a-zA-z0-9_@]+)
+			\W*=\W*(\(.+\))?
+			(?s:.+?)
+			[\r\n](?P=leadspace)$
+		)
+		)]]>
+		</string>
 	</dict>
 </dict>
 </plist>
